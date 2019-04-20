@@ -63,7 +63,7 @@ var AppRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<h1>\n  Application says what?\n</h1>\n<ul>\r\n  <li *ngFor =\"let value of apiValues\">{{value}}</li>\r\n</ul>\n<router-outlet></router-outlet>\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\r\n<h1>\r\n  Thanks for reading\r\n</h1>\r\n<ul>\r\n  <li *ngFor =\"let value of apiValues\">{{value}}</li>\r\n</ul>\r\n<router-outlet></router-outlet>\r\n"
 
 /***/ }),
 
@@ -230,7 +230,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\user\source\repos\AngularApp\AngularApp\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\development\angularappinvs17\AngularApp\src\main.ts */"./src/main.ts");
 
 
 /***/ })
