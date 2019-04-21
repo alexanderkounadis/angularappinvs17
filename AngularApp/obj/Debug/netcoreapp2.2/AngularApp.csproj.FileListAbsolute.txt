@@ -16,7 +16,6 @@ C:\development\angularappinvs17\AngularApp\bin\Debug\netcoreapp2.2\AngularApp.ru
 C:\development\angularappinvs17\AngularApp\bin\Debug\netcoreapp2.2\AngularApp.runtimeconfig.dev.json
 C:\development\angularappinvs17\AngularApp\bin\Debug\netcoreapp2.2\AngularApp.dll
 C:\development\angularappinvs17\AngularApp\bin\Debug\netcoreapp2.2\AngularApp.pdb
-C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.csprojAssemblyReference.cache
 C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.csproj.CoreCompileInputs.cache
 C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.RazorAssemblyInfo.cache
 C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.RazorAssemblyInfo.cs
@@ -25,3 +24,4 @@ C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.As
 C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.RazorTargetAssemblyInfo.cache
 C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.dll
 C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.pdb
+C:\development\angularappinvs17\AngularApp\obj\Debug\netcoreapp2.2\AngularApp.csprojAssemblyReference.cache
