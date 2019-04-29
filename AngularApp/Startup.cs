@@ -37,6 +37,7 @@ namespace AngularApp
         options.Password.RequireLowercase = false;
         options.Password.RequireUppercase = false;
       });
+      services.AddCors();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +47,12 @@ namespace AngularApp
       // redirect any non-api call to the Angular app
       // so the routing there is handled by our app
 
+      app.UseCors(builder =>
+      {
+        builder.WithOrigins("http://localhost:4200")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+      });
       app.Use(async (ctx, next) =>
       {
         await next();
